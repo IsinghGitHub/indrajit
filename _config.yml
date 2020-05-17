@@ -1,4 +1,9 @@
 title: Indrajit Singh # your name (or website title) here
-<a href="https://www.linkedin.com/in/indrajitsinghds/">View My LinkedIn Profile</a>
-theme: jekyll-theme-leap-day
+logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ 
+  <br><br>
+  <a href="https://www.linkedin.com/in/indrajitsinghds/">View My LinkedIn Profile</a> 
+  
+theme: jekyll-theme-midnight
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
