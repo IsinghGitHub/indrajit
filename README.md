@@ -1,5 +1,9 @@
+---
+title: About
+---
 
-# Hello World! 
+# About this project
 
-This is a great new site.
-p.s. gh-pages rock!
+In a word: **Awesome!**
+
+See the [Home page](/go-go-ghpages/README.md)
