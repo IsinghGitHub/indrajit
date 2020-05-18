@@ -1,4 +1,4 @@
-title: Indrajit Singh # your name (or website title) here
+title: 
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
  
@@ -7,3 +7,14 @@ description: > # your text below (remove <br> elements if you don't need line br
   
 theme: jekyll-theme-cayman
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# basic options
+title: Indrajit Singh # your name (or website title) here
+author: Indrajit SIngh
+email: indrajitsingh37@gmail.com
+description: A wonderful site for learning Natural Language Processing and AI
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
